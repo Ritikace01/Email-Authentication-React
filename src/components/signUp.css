@@ -1,0 +1,9 @@
+.icon:hover{
+    cursor: grab;
+}
+
+.btn{
+    border-style: solid !important;
+    border-radius: 50% !important;
+    border: black !important;
+}
