@@ -31,8 +31,29 @@
 
   .login-btn:hover{
     cursor: pointer;
+    color: white;
+  }
+
+  .login-btn{
+    background: #7ECB20 0% 0% no-repeat padding-box;
+    opacity: 1;
+    border-radius: 19px;
+    width: 134px;
+    height: 38px;
+    text-align: center;
+  } 
+
+  .login-txt {
+    font: Open Sans 600 16px/22px Open Sans;
+    letter-spacing: 0.48px;
+    color: #FFFFFF;
+    opacity: 1;
   }
 
   .forgot-password:hover{
+    cursor: pointer;
+  }
+
+  .signUp:hover{
     cursor: pointer;
   }
