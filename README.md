@@ -1,5 +1,7 @@
 # MyWay
 
-**Kindly switch to the master branch to view the code
-**and refer to the README file in master to run the application.
-**And test, email authentication functionality through OTP.
+Kindly switch to the master branch to view the code 
+and directions to run the React project.
+
+# The website is also hosted on Netlify.
+Link - https://nifty-kalam-b4d153.netlify.app
